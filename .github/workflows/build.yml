@@ -1,6 +1,6 @@
 name: Build for Desktop
 
-on:
+on:on: workflow_dispatch
   push:
     branches:
       - '**'
